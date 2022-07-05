@@ -18,3 +18,37 @@ Write an if, else if, else statement that:
 If ph is greater than 7, output “Basic”.
 If ph is less than 7, output “Acidic”.
 If neither, output “Neutral”.
+
+
+- code -
+
+  So got this question right with only a few lings of code.
+  
+int main() {
+  
+  double ph = 4.6;
+  
+  
+ if (ph > 7) {
+
+   std::cout << "Basic\n";
+
+ }
+
+ else if (ph < 7) {
+
+
+std::cout << "Acidic\n";
+
+ }
+
+ else {
+
+   std::cout << "Neutral\n";
+
+ }
+ 
+ 
+  Going to start do my driving lessons too so eventually I can drive by myself, also going to start my work permit so I can get a summer job, even though summer is like
+half over already.
+
