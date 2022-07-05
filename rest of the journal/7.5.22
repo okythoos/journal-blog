@@ -2,5 +2,19 @@
 
   Having trouble with if, else, and if else statements... might have to come back to it later, I get the concept, I just don't know how to exactly apply it to code. Well
 kinda but just having trouble -
-
+ 
+ 
+10:39 am
   
+  Nevermind, got the hang of it, in this problem I had to find out if a pH variable was acidic, basic, or neutral. 
+ 
+ 
+ - The question -
+ 
+ In chemistry, pH is a scale used to specify the acidity or basicity of an aqueous solution.
+
+Write an if, else if, else statement that:
+
+If ph is greater than 7, output “Basic”.
+If ph is less than 7, output “Acidic”.
+If neither, output “Neutral”.
